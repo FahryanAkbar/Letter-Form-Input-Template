@@ -1,4 +1,4 @@
-# CSMS Assessment & Certificate Templates
+# CSMS Letter & Form Input Templates
 
 Repositori ini berisi kumpulan template HTML yang digunakan untuk proses penilaian, evaluasi, dan dokumentasi dalam sistem **Contractor Safety Management System (CSMS)** di PT PLN (Persero). Setiap template dirancang menggunakan **Inline CSS** untuk memastikan konsistensi tampilan saat dicetak maupun dikonversi ke PDF.
 
